@@ -24,7 +24,7 @@ Aparecera la siguiente imagen lugar de trabajo de nodejs
 
 1. Se realiza la siguiente estructura 
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/Estructura%20nodejs.png?raw=true)
 
 ### Configuracion y herramientas usadas 
 
@@ -40,7 +40,7 @@ Aparecera la siguiente imagen lugar de trabajo de nodejs
 ## CONFIGURACION ESTRUCTURA NODEJS
 
 * Para la configuracion de mqtt in se utilizo la siguiente 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/configuracion%20mqtt.png?raw=true)
 
 * Para json solo se escogio **Always convert to JavaScrip Object**
 
@@ -76,20 +76,20 @@ return msg;
 
 * En el apartado dashboard se agrega nueva tabla con las siguientes grupos como se observa en la imagen.
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/conf%20dashboard.png?raw=true)
 
 
 * Distancia 
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/Distancia.png?raw=true)
 
 * Temperatura 
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/Temperatura.png?raw=true)
 
 * Distancia 
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/Humedad.png?raw=true)
 
 ---------------------------------------------------------------
 
@@ -122,10 +122,11 @@ woki : https://wokwi.com
 
 ## **Conexión**
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/conexion.png?raw=true)
 
 
 ## **Librerías**
+
 1. ArduinoJson
 2. PubSubClient
 3. DHT sensor library for ESPx
@@ -317,17 +318,17 @@ long t; //timepo que demora en llegar el eco
 
 ## 1. Resultado de la pagina WOKWI 
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/Resultado%20de%20wokwi.png?raw=true)
 
 ## 2. Primer  resultado del dashboard 
  
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/resultado%20red.png?raw=true)
 
 ## 3. Mas resultados
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/resultado%202.png?raw=true)
 
-![]()
+![](https://github.com/AxelMld/Practica8-DisTemyHum/blob/main/resultado%202.2.png?raw=true)
 
 
 **Notas:** Tener cuidado con el nombramiento de la red, asi como nombramiento del client-publish
